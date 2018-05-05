@@ -1,4 +1,4 @@
 # hello-world
 
 Hello,
-I like java
+I like core java
